@@ -5,7 +5,7 @@ export default class Hello extends React.Component {
   render() {
     return (
       <View>
-        <Text>hehehe</Text>
+        <Text>wtf</Text>
       </View>
     )
   }
