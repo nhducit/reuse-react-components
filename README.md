@@ -26,7 +26,7 @@ react-native run-ios
 ```
 
 
-### Sharing code
+### How it works?
 Hello component (only view basic components: View, Text) is implemented in react native. In web project we use `react-native-web` to render Hello component.
 
 
